@@ -1,13 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import {
-  Github,
-  Mail,
-  Linkedin,
-  ExternalLink,
-  Calendar,
-  Building,
-} from "lucide-react";
+import { Github, Mail, Linkedin, Calendar, Building } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
