@@ -25,6 +25,14 @@ const projects = [
     technologies: ["React", "WXT", "Tailwind CSS", "API"],
     codeUrl: "https://github.com/Sheerwin02/Chrome-Content-Summarizer",
   },
+  {
+    id: 3,
+    name: "Vet Store Management System",
+    description:
+      "The APU Veterinary Clinic System (AVCS) is a web-based platform that streamlines clinic operations by enabling managing staff, vets and receptionists to efficiently manage schedules, appointments, user profiles and pet care information through role-based access.",
+    technologies: ["Java", "Servlet", "JSP", "HTML", "CSS"],
+    codeUrl: "https://github.com/brlkf/Vet_Store_Management",
+  },
 ];
 
 // Work experience data - customize with your own experience
